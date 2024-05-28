@@ -1,4 +1,4 @@
-(https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)
+![Header](./banner.png)
 <h1 align="center">Hi , I'm Aakash Saini😁</h1>
 <h3 align="center">I am a Full Stack Web Developer skilled in the MERN stack, and I enjoy learning new technologies and creating useful projects with them.</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="">
