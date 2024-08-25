@@ -1,5 +1,6 @@
 ![Header](./banner.png)
 <h1 align="center">Hi , I'm Aakash Saini😁</h1>
+
 - 🔭 I’m currently working on **NextJs.**
 
 - 🌱 I’m currently learning **DevOps Technologies**
@@ -7,7 +8,7 @@
 - ☁️ I've a keen interest in Web3.
 
 - 💬 Ask me about **ReactJs, NextJs and NodeJs**
-- <img align="right" height="400px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="">
+<img align="right" height="400px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="">
 
 
 <p align="left">
@@ -59,6 +60,10 @@
   </a>
 </p>
 
+
+
+<br/>
+<br/>
 
  <p></p> <img  align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aakashsaini09&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/></p>
 
