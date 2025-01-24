@@ -56,7 +56,7 @@
 # Technologies That I Know👨🏻‍💻:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,solidity,rust,css,docker,express,firebase,github,html,js,next,materialui,mongodb,mysql,prisma,aws,nodejs,postman,react,vite,redux,docker,ts,tailwind,ubuntu,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,next,docker,firebase,github,js,materialui,mongodb,mysql,prisma,aws,nodejs,react,vite,ts,tailwind&perline=14" />
   </a>
 </p>
 
