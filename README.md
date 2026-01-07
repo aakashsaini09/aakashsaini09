@@ -66,10 +66,13 @@
 <br/>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aakashsaini09&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width="700"/></td>
+    <!-- <td><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aakashsaini09&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width="800"/></td> -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aakashsaini09&show_icons=true&locale=en" alt="aakashsaini09" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsaini09&" alt="aakashsaini09" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakashsaini09&theme=2077" height="180em" alt="aakashsaini09" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakashsaini09&theme=2077" height="180em" alt="aakashsaini09" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakashsaini09&theme=2077" height="180em" alt="aakashsaini09" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakashsaini09&theme=2077" height="180em" alt="aakashsaini09" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashsaini09&theme=2077" height="180em" alt="aakashsaini09" />
     </td>
   </tr>
 </table>
